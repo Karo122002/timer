@@ -1,2 +1,2 @@
 # timer
-test timer projekt
+test timer project
